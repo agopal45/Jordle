@@ -6,3 +6,6 @@ With each word guess a user attempts to guess, they are provided feedback on the
 Additional scenes and panes are added for introductions and instructions.
 
 The backend file contains code applying object-oriented principles to select a word from the words.txt file and to check the accuracy of user guesses.
+User may have to run javafx through terminal by compiling and running which can be done by typing in: - javac —module-path=p:\javafx-sdk-11.0.2\lib —add-modules=javafx.controls *.java
+and:  - java —module-path=p:\javafx-sdk-11.0.2\lib —add-modules=javafx.controls *
+or follow the appropriate compiling and running based on user's IDE.
